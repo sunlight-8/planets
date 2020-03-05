@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 it is so a planet
+=======
+Hey it's pluto
+
+>>>>>>> 8c2757b9f42f3cde820f182670d95cf4625a5e9e
